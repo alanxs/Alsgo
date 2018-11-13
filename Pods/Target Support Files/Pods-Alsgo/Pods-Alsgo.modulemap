@@ -1,0 +1,6 @@
+framework module Pods_Alsgo {
+  umbrella header "Pods-Alsgo-umbrella.h"
+
+  export *
+  module * { export * }
+}
